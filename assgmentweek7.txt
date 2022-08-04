@@ -1,0 +1,40 @@
+1. -mkdir elvina
+   -cd elvina
+2. -mkdir sekolah
+   -mkdir kerja
+   -ls
+3. -cd sekolah
+   -touch ijasah.txt
+   -ls
+   -cd ijasah.txt
+   -cat > ijasah.txt
+    Perkenalkan namaku elvina
+
+    Aku berasal dari ponorogo
+
+    Salam Kenal :D
+    -
+    -touch portfolio.txt
+    -ls
+    -cd portfolio.txt
+    -cat > portfolio.txt
+     Saya pernah bekerja pada beberapa perusahaan salah satu 
+diantaranya ialah
+
+- PT Telkom Indonesia 
+- Astra Internasional
+- Elang Mahkota Teknologi
+4. 
+5.-cd kerja
+  -touch cv.txt
+  -ls
+  -cd cv.txt
+  -cat > cv.txt
+Salam,
+
+Perkenalkan namaku elvina, saya memiliki kegemaran
+- menulis
+- scroll tiktok 
+- mendengarkan musik
+  -
+
